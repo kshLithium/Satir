@@ -3,4 +3,4 @@
 #### 사티어 의사소통 유형검사 앱
 
 #### 발표영상
-https://youtu.be/uWDKthsRSJ0
+https://youtu.be/MzXETSTJTRk
