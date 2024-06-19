@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Satir</string>
+    <string-array name="questions1">
+        <item>A. 나는 상대방이 불편하게 보이면 비위를 맞추려고 한다.</item>
+        <item>B. 나는 일이 잘못되었을 때 자주 상대방의 탓으로 돌린다.</item>
+        <item>C. 나는 무슨 일이든지 조목조목 따지는 편이다.</item>
+        <item>D. 나는 생각이 자주 바뀌고 동시에 여러 가지 행동을 하는 편이다.</item>
+        <item>E. 나는 타인의 평가에 구애받지 않고 내 의견을 말한다.</item>
+    </string-array>
+
+    <string-array name="questions2">
+        <item>A. 나는 관계나 일이 잘못되었을 때 자주 내 탓으로 돌린다.</item>
+        <item>B. 나는 다른 사람들의 의견을 무시하고 내 의견을 주장하는 편이다.</item>
+        <item>C. 나는 이성적이고 차분하고 냉정하게 생각한다.</item>
+        <item>D. 나는 다른 사람들로부터 정신이 없거나 산만하다는 소리를 듣는다.</item>
+        <item>E. 나는 부정적인 감정도 솔직하게 표현한다.</item>
+    </string-array>
+
+    <string-array name="questions3">
+        <item>A. 나는 지나치게 남을 의식해서 나의 생각이나 감정을 표현하는 것을 두려워한다.</item>
+        <item>B. 나는 내 의견이 받아들여지지 않으면 화가 나서 언성을 높인다.</item>
+        <item>C. 나는 나의 견해를 분명하게 표현하기 위해 객관적인 자료를 자주 인용한다.</item>
+        <item>D. 나는 상황에 적절하지 못한 말이나 행동을 자주 하고 딴전을 피우는 편이다.</item>
+        <item>E. 나는 다른 사람이 내게 부탁을 할 때 내가 원하지 않으면 거절한다.</item>
+    </string-array>
+
+    <string-array name="questions4">
+        <item>A. 나는 다른 사람들의 얼굴표정, 감정, 말투에 신경을 많이 쓴다.</item>
+        <item>B. 나는 타인의 결점이나 잘못을 잘 찾아내어 비판한다.</item>
+        <item>C. 나는 실수하지 않으려고 애를 쓰는 편이다.</item>
+        <item>D. 나는 곤란하거나 난처할 때는 농담이나 유머로 그 상황을 바꾸려 하는 편이다.</item>
+        <item>E. 나는 나 자신에 대해 편안하게 느낀다.</item>
+    </string-array>
+
+    <string-array name="questions5">
+        <item>A. 나는 타인을 배려하고 잘 돌보아주는 편이다.</item>
+        <item>B. 나는 명령적이고 지시적인 말투로 상대가 공격받았다는 느낌을 줄 때가 있다.</item>
+        <item>C. 나는 불편한 상황을 그대로 넘기지 못하고 시시비비를 따지는 편이다.</item>
+        <item>D. 나는 불편한 상황에서는 안절부절 못하거나 가만히 있지를 못한다.</item>
+        <item>E. 나는 모험하는 것을 두려워하지 않는다.</item>
+    </string-array>
+
+    <string-array name="questions6">
+        <item>A. 나는 다른 사람들이 나를 싫어할까 두려워서 위축되거나 불안을 느낄때가 많다.</item>
+        <item>B. 나는 사소한 일에도 잘 흥분하거나 화를 낸다.</item>
+        <item>C. 나는 현명하고 침착하지만 냉정하다는 말을 자주 듣는다.</item>
+        <item>D. 나는 한 주제에 집중하기보다는 화제를 자주 바꾼다.</item>
+        <item>E. 나는 다양한 경혐에 개방적이다.</item>
+    </string-array>
+
+    <string-array name="questions7">
+        <item>A. 나는 타인의 요청을 거절하지 못하는 편이다.</item>
+        <item>B. 나는 자주 근육이 긴장되고 목이 뻣뻣하며 혈압이 오르는 것을 느끼곤 한다.</item>
+        <item>C. 나는 나의 감정을 표현하는 것이 힘들고 혼자인 느낌이 들때가 많다.</item>
+        <item>D. 나는 분위기가 침체되거나 지루해지면 분위기를 바꾸려 한다.</item>
+        <item>E. 나는 나만의 독특한 개성을 존중한다.</item>
+    </string-array>
+
+    <string-array name="questions8">
+        <item>A. 나는 나 자신이 가치가 없는 것 같아 우울하게 느껴질 때가 많다.</item>
+        <item>B. 나는 타인으로부터 비판적이거나 융통성이 없다는 말을 듣기도 한다.</item>
+        <item>C. 나는 목소리가 단조롭고 무표정하며 경직된 자세를 취하는 편이다.</item>
+        <item>D. 나는 불안하면 호흡이 고르지 못하고 머리가 어지러운 경험을 하기도 한다.</item>
+        <item>E. 나는 누가 나의 의견에 반대하여도 감정이 상하지 않는다.</item>
+    </string-array>
+</resources>
